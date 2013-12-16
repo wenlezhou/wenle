@@ -16,3 +16,13 @@
     不知道怎样实现用户在点击按钮后，在原来的label里展示我们要的wording 
     未实现邮件发送相关的组成
     未实现发送进度条
+
+2013/12/16
+实现
+@interface ViewController : UIViewController{
+    UILabel* _label1;  //在viewController.h 文件里定义一个UILabel 
+}
+在对应的按钮响应函数里定义：
+_label1.text = @"已发送，我们的工作人员会跟进处理，谢谢！";
+
+

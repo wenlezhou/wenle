@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BugReportWidget/ViewController.h"
-            timestampString = "408811233.146934"
+            timestampString = "408882705.095619"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "17"
-            endingLineNumber = "17"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
             landmarkName = "@interface ViewController"
             landmarkType = "2">
          </BreakpointContent>
